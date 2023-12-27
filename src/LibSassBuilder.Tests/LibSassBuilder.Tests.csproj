@@ -22,9 +22,5 @@
   <ItemGroup>
     <ProjectReference Include="..\LibSassBuilder\LibSassBuilder.csproj" />
   </ItemGroup>
-
-	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-		<Exec Command="dotnet run --project ../LibSassBuilder ./" />
-	</Target>
-
+  
 </Project>

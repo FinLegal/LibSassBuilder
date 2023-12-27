@@ -11,7 +11,7 @@
     <description>Compile Sass files to css on project build.</description>
     <tags>Sass Build LibSass SassBuilder</tags>
     <projectUrl>https://github.com/FinLegal/LibSassBuilder</projectUrl>
-    <repository type="git" url="https://github.com/FinLegalLibSassBuilder.git">
+    <repository type="git" url="https://github.com/FinLegal/LibSassBuilder.git">
     </repository>
     <license type="expression">MIT</license>
     <icon>sass.png</icon>
