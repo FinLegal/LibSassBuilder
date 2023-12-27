@@ -2,16 +2,16 @@
 <package>
   <metadata>
     <id>LibSassBuilder</id>
-    <version>3.0.0</version>
+    <version>3.1.0</version>
     <title>LibSassBuilder</title>
     <summary>Auto build task to compile .scss/.sass files to .css</summary>
-    <authors>Johan van Rensburg</authors>
-    <owners>Johan van Rensburg</owners>
+    <authors>Johan van Rensburg,FinLegal</authors>
+    <owners>Johan van Rensburg,FinLegal</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Compile Sass files to css on project build.</description>
     <tags>Sass Build LibSass SassBuilder</tags>
-    <projectUrl>https://github.com/johan-v-r/LibSassBuilder</projectUrl>
-    <repository type="git" url="https://github.com/johan-v-r/LibSassBuilder.git">
+    <projectUrl>https://github.com/FinLegal/LibSassBuilder</projectUrl>
+    <repository type="git" url="https://github.com/FinLegalLibSassBuilder.git">
     </repository>
     <license type="expression">MIT</license>
     <icon>sass.png</icon>
