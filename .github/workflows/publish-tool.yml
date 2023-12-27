@@ -28,7 +28,7 @@ jobs:
     - name: dotnet pack
       run: dotnet pack LibSassBuilder -o 'nuget-tool-package'
   
-    - uses: actions/upload-artifact@v2.2.1
+    - uses: actions/upload-artifact@v4
       with:
         name: nuget-tool-package
         path: './src/nuget-tool-package/*'
