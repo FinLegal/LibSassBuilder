@@ -5,12 +5,12 @@
 		<Version>3.1.0</Version>
 		<TargetFramework>net8.0</TargetFramework>
 		<PackAsTool>true</PackAsTool>
-		<PackageId>LibSassBuilder-Tool</PackageId>
+		<PackageId>FinLegal.LibSassBuilder-Tool</PackageId>
 		<ToolCommandName>lsb</ToolCommandName>
-		<Authors>Johan van Rensburg</Authors>
-		<Description>Compile Sass files to css from CLI. Install globally with `dotnet tool install -g LibSassBuilder-Tool`</Description>
-		<PackageProjectUrl>https://github.com/johan-v-r/LibSassBuilder</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/johan-v-r/LibSassBuilder.git</RepositoryUrl>
+		<Authors>Johan van Rensburg/FinLegal</Authors>
+		<Description>Compile Sass files to css from CLI. Install globally with `dotnet tool install -g FinLegal.LibSassBuilder-Tool`</Description>
+		<PackageProjectUrl>https://github.com/FinLegal/LibSassBuilder</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/FinLegal/LibSassBuilder.git</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>Sass Build LibSass SassBuilder</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
