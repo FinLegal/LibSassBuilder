@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>FinLegal.LibSassBuilder</id>
-    <version>3.1.0</version>
+    <version>3.1.1</version>
     <title>FinLegal.LibSassBuilder</title>
     <summary>Auto build task to compile .scss/.sass files to .css</summary>
     <authors>Johan van Rensburg,FinLegal</authors>
